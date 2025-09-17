@@ -50,6 +50,8 @@ This project is an ASP.NET Core server implementation for Model Context Protocol
     ```
 
 ### 2. Add MCP server to VS Code:
+- Create directory `.vscode` in the project root if it doesn't exist.
+- Create a file named `mcp.json` inside the `.vscode` directory.
 - Open the `mcp.json` file in the project directory.
 - Click on the "Add Server..." button in the bottom right corner of the editor window.
 - Select "HTTP" as the server type.

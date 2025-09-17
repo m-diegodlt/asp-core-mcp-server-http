@@ -2,6 +2,12 @@
 
 This project is an ASP.NET Core server implementation for Model Context Protocol (MCP) over HTTP.
 
+## Resources
+
+- [MCP Official Docs](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [MCP C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
+- [Adding MCP to ASP.NET Core project tutorial](https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet)
+
 ## Features
 
 - ASP.NET Core based HTTP server

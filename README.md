@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 
 # How to run locally and test using VS Code
 
-NOTE: These instructions should be followed on VS Code.
+**NOTE**: These instructions should be followed on VS Code.
 
 1. Run the server:
 - Navigate to the project directory and execute in the terminal:
